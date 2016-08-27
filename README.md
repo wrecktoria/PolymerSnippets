@@ -14,7 +14,7 @@ Type the name of [any `iron-*` or `paper-*` element](https://elements.polymer-pr
 
 ![Using snippets](https://cloud.githubusercontent.com/assets/1066253/8323071/77f4173c-19f4-11e5-94d2-a22e3b3e526e.gif)
 
-OR, start typing the prefix for an element and hit `ctrl+space` to fuzzy search for a completion. Ex:
+OR, start typing the prefix for an element and hit `ctrl+space` (on Linux `alt+space`) to fuzzy search for a completion. Ex:
 
 ![Fuzz auto complete](https://cloud.githubusercontent.com/assets/1066253/8323081/87cd9890-19f4-11e5-9005-bf627ab30ea5.gif)
 
